@@ -1,0 +1,89 @@
+.container {
+    font-family: 'Caveat', cursive;
+}
+
+.network{
+    background-color: black;
+    color: white;
+}
+
+.yourfeed{
+    display: flex;
+    justify-content: center;
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.profile{
+    border: solid;
+    width: 200px;
+    height: 300px;
+}
+
+.profileContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px
+}
+
+.profilePic{
+    width: 100px;
+    height: 100px;
+}
+
+.addAvatar{
+    font-size: 20px;
+}
+
+.request {
+    width: 330px;
+    height: 150px;
+    border: solid;
+    position: relative;
+    left: 20px;
+    margin-bottom: 10px;
+}
+
+.first-subcontainer {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.num {
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.likes {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.like {
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    background-color: rgb(243, 202, 79);
+    margin-left: 30px;
+    box-shadow: 3px 3px;
+}
+
+.second-subcontainer {
+    position: relative;
+    bottom: 40px;
+    left: 10px;
+}
+
+.description {
+    font-size: 23px;
+    display: flex;
+}
